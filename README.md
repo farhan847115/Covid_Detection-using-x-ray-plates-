@@ -43,7 +43,7 @@ Our solution involves using transfer learning, where we leverage pre-trained dee
 
 ## Architecture
 
-![Architecture Diagram]
+![Architecture Diagram] https://github.com/farhan847115/Covid_Detection_Cvision/blob/main/architecture.png 
     
 
 ## Deployment
