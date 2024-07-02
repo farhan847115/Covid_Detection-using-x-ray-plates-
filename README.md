@@ -58,7 +58,7 @@ Follow these steps to run the project:
 ```bash
 
 #Step1 : Clone the project
-git clone https://github.com/rajandevkota98/Covid-Detection-Using-X-Ray-Plates.git
+git clone https://github.com/farhan847115/Covid_Detection_Cvision
 
 # Step 2: Create a Conda Environment and Activate it
 conda create -n <virtual_environment_name> python=3.8 -y
