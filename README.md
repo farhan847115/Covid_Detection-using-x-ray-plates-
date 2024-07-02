@@ -49,7 +49,7 @@ Our solution involves using transfer learning, where we leverage pre-trained dee
 
 ## Deployment
 
-![Deployment Diagram](https://github.com/rajandevkota98/Covid-Detection-Using-X-Ray-Plates/blob/main/flowchart/deployment.png)
+![Deployment Diagram](https://github.com/farhan847115/Covid_Detection_Cvision/blob/main/deployment.png)
 
 
 ## How to Run the Project
